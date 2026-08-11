@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/cyber_fr0g" target="blank"><img src="https://img.shields.io/twitter/follow/cyber_fr0g?logo=twitter&style=for-the-badge" alt="cyber_fr0g" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.arunkhatwe.info/](https://www.arunkhatwe.info/)
+- 👨‍💻 All of my projects are available at [/)
 
 - 💬 Ask me about **Web Security , Cloud Security , Rust**
 
